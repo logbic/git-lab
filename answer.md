@@ -72,4 +72,6 @@ Answer 12:
 Once I did the git pull command, the changes were then made inside of my file.
 
 Answer 13:
+.		..		.git		.gitignore	README.md
+
 
